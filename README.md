@@ -24,11 +24,11 @@
                 <img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="40">
             </a>
         </th>
-        <th style="text-align:center">
+<!--         <th style="text-align:center">
             <a href="#">
                 <img src="https://cdn.svgporn.com/logos/google-gmail.svg" width="30">
             </a>
-        </th>
+        </th> -->
     </tr>
 </table>
 <br>
@@ -39,17 +39,44 @@
 ```
   Create new flutter project
 ```
+### Edit pubspec.yaml
+```
+  dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  get: ^4.6.6
+  curved_navigation_bar: ^1.0.4
+  cloud_firestore: ^4.17.5
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.20.0
+  flutter_easyloading: ^3.0.5
+  random_string: ^2.3.1
+  shared_preferences: ^2.2.3
+  image_picker: ^1.1.2
+  firebase_storage: ^11.7.7
+  http: ^1.2.1
+  awesome_dialog: ^3.2.1
+```
+```
+  assets:
+    - images/
+```
 
 ### Install Firebasetools
 ``` 
   npm install -g firebase-tools
+```
+### Install Flutter Package
+```
+flutter pub get
 ```
 ### Login Firebase in your VS Code
 ``` 
   firebase login
 ```
 
-## Enable Google Map SDK for each platform.
+## Setting Firebase Console
 - Go to [Firebase Console](https://firebase.google.com)
 - Add new Project
 - Creat Authenthication -> Email/Password
@@ -65,17 +92,21 @@
 ```
 - Select your Firebase Project
 
+### Run Your Flutter Project
+``` 
+  flutter run
+```
+
 ## Screenshot
 
-<img src="https://github.com/Frave07/Flutter-Delivery-App/blob/main/screenshot/Delivery-Food-Brinning.png" />
+<img src="https://https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-230901.jpg" />
+<img src="https://https://https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-232055.jpg" />
 
 ---
 
 ## DBAD license
 
 ```sh
-  # DON'T BE A DICK PUBLIC LICENSE
-
   > Version 1.0, June 2024
 
   > Copyright (C) [2024] [Mqiu Developers]
@@ -83,22 +114,5 @@
   Everyone is permitted to copy and distribute verbatim or modified
   copies of this license document.
 
-  > DON'T BE A DICK PUBLIC LICENSE
-  > TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-  1. Do whatever you like with the original work, just don't be a dick.
-
-     Being a dick includes - but is not limited to - the following instances:
-
-   1a. Outright copyright infringement - Don't just copy this and change the name.
-   1b. Selling the unmodified original with no work done what-so-ever, that's REALLY being a dick.
-   1c. Modifying the original work to contain hidden harmful content. That would make you a PROPER dick.
-
-  2. If you become rich through modifications, related works/services, or supporting the original work,
-  share the love. Only a dick would make loads off this work and not buy the original work's
-  creator(s) a pint.
-
-  3. Code is provided with no warranty. Using somebody else's code and bitching when it goes wrong makes
-  you a DONKEY dick. Fix the problem yourself. A non-dick would submit the fix back.
 ```
 
