@@ -105,8 +105,8 @@ flutter pub get
 
 ## Screenshot
 
-<img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-230901.jpg" height="100" />
-<img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-232055.jpg" height="100" />
+<img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-230901.jpg"  /> <img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-232055.jpg"  />
+
 
 ---
 
