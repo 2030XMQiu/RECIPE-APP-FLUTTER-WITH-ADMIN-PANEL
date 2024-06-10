@@ -105,8 +105,27 @@ flutter pub get
 
 ## Screenshot
 
-<img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-230901.jpg" height="1000"  />
-<img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-232055.jpg" height="1000"   />
+<table align="center">
+    <tr>
+<!--         <th style="text-align:center">
+            <a href="https://cutt.ly/pckBg9D">
+                <img src="https://cdn.svgporn.com/logos/youtube-icon.svg" width="40">
+            </a>
+        </th> -->
+        <th style="text-align:center">
+            <a href="">
+                <img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-230901.jpg" height="1000"  />
+            </a>
+        </th>
+        <th style="text-align:center">
+            <a href="#">
+                <img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-232055.jpg" height="1000"   />
+            </a>
+        </th>
+    </tr>
+</table>
+
+
 
 
 ---
