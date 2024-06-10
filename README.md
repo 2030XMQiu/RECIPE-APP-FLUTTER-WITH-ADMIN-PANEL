@@ -40,50 +40,30 @@
   Create new flutter project
 ```
 
-### Create FIrebase Project
-``` 
-  Open https://firebase.google.com/
-  Login with ur account
-  Go to console -> add new project
-  
-```
-
 ### Install Firebasetools
 ``` 
-  Lib/Services/url.dart
+  npm install -g firebase-tools
+```
+### Login Firebase in your VS Code
+``` 
+  firebase login
 ```
 
 ## Enable Google Map SDK for each platform.
-- Go to [Google Developers Console](https://console.cloud.google.com)
-- To enable Google Maps for Android and iOS.
-- Page API KEY -> lib/Services/GoogleServices
-- Page API KEY -> Android/app/src/main/AndroidManifest.xml
+- Go to [Firebase Console](https://firebase.google.com)
+- Add new Project
+- Creat Authenthication -> Email/Password
+- Create Firestore Database -> set rules ->  allow read, write: if true;
+- Create Firestore Storage -> set rules ->  allow read, write: if true;
 
-## MAPBOX API KEY
-- Go to [Mapbox](https://www.mapbox.com/)
-- Page API KEY -> lib/Controller/MapBoxController
-
-## PUSH NOTIFICATIONS - Cloud Messaging | Firebase
-- Page Server Key => lib/Services/PushNotification.dart
-- Page google-services.json => Android/App/
-- Go Firebase
-- Project settings
-- Cloud Messaging
-- Server key
-
-## Flutter
-- Flutter Bloc 
-- Socket io client
-- Google Map
-- MapBox
-- Geolocator
-- Push notifications
-
-# Backend [NodeJs]
-- [Backend - Javascript](https://github.com/Frave07/Backend-Delivery-App-Flutter)
-
-
----
+### Add Firebase Project to Flutter
+``` 
+  flutter pub global activate flutterfire_cli
+```
+``` 
+  flutterfire configure
+```
+- Select your Firebase Project
 
 ## Screenshot
 
@@ -96,9 +76,9 @@
 ```sh
   # DON'T BE A DICK PUBLIC LICENSE
 
-  > Version 1.1, December 2016
+  > Version 1.0, June 2024
 
-  > Copyright (C) [2023] [frave developer]
+  > Copyright (C) [2024] [Mqiu Developers]
 
   Everyone is permitted to copy and distribute verbatim or modified
   copies of this license document.
