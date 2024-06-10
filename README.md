@@ -63,14 +63,16 @@
     - images/
 ```
 
-### Install Firebasetools
-``` 
-  npm install -g firebase-tools
-```
 ### Install Flutter Package
 ```
 flutter pub get
 ```
+
+### Install Firebasetools
+``` 
+  npm install -g firebase-tools
+```
+
 ### Login Firebase in your VS Code
 ``` 
   firebase login
@@ -96,11 +98,15 @@ flutter pub get
 ``` 
   flutter run
 ```
+## Admin Panel Or User
+- Go to lib/main.dart
+- For Admin Panel -> home: AdminLogin()
+- For User -> home: AuthGate()
 
 ## Screenshot
 
-<img src="https://https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-230901.jpg" />
-<img src="https://https://https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-232055.jpg" />
+<img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-230901.jpg" />
+<img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-232055.jpg" />
 
 ---
 
