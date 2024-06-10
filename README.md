@@ -35,6 +35,11 @@
 
 ## Requirements
 
+### TOOLS
+- Flutter
+- Node JS
+- Firebase
+
 ### FIRST
 ```
   Create new flutter project
