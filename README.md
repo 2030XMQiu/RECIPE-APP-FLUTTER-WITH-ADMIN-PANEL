@@ -1,7 +1,7 @@
 # RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL
 <div align="center">
 
-  ### <img src="https://avatars.githubusercontent.com/u/76232843?s=400&u=52234351df87372dea43a90243320f9e6a78e70c&v=4" height="100px"/> 
+  ### <img src="https://avatars.githubusercontent.com/u/76401666?s=400&u=53e72048830573e02e46e62b6fb1123b2ac59562&v=4" height="100px"/> 
 
   ***2030XMqiu***
 </div>
@@ -105,8 +105,8 @@ flutter pub get
 
 ## Screenshot
 
-<img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-230901.jpg" />
-<img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-232055.jpg" />
+<img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-230901.jpg" height="100" />
+<img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-232055.jpg" height="100" />
 
 ---
 
