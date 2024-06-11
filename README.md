@@ -15,7 +15,7 @@
 <table align="center">
     <tr>
 <!--         <th style="text-align:center">
-            <a href="https://cutt.ly/pckBg9D">
+            <a href="">
                 <img src="https://cdn.svgporn.com/logos/youtube-icon.svg" width="40">
             </a>
         </th> -->
@@ -94,6 +94,9 @@ flutter pub get
 - Create Firestore Database -> set rules ->  allow read, write: if true;
 - Create Firestore Storage -> set rules ->  allow read, write: if true;
 - <img src="https://raw.githubusercontent.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/main/Screenshot/Screenshot%202024-06-11%20105106.png"/>
+- Create Collection Firestore Database
+- <img src="https://raw.githubusercontent.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/main/Screenshot/Screenshot%202024-06-11%20213441.png" />
+- <img src="https://raw.githubusercontent.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/main/Screenshot/Screenshot%202024-06-11%20213555.png" />
 
 ### Add Firebase Project to Flutter
 ``` 
@@ -117,11 +120,6 @@ flutter pub get
 
 <table align="center">
     <tr>
-<!--         <th style="text-align:center">
-            <a href="https://cutt.ly/pckBg9D">
-                <img src="https://cdn.svgporn.com/logos/youtube-icon.svg" width="40">
-            </a>
-        </th> -->
         <th style="text-align:center">
             <a href="">
                 <img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-230901.jpg" height="500" width="600" />
@@ -146,6 +144,12 @@ flutter pub get
   > Version 1.0, June 2024
 
   > Copyright (C) [2024] [Mqiu Developers]
+
+  > Thanks to
+  > Taufik Hidayat
+  > Viki Mei Adi Saputra
+  > Shafa Kirana Aralia
+  > Lidya Puji Putriawati
 
   Everyone is permitted to copy and distribute verbatim or modified
   copies of this license document.
