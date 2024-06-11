@@ -89,7 +89,7 @@ flutter pub get
 ## Setting Firebase Console
 - Go to [Firebase Console](https://firebase.google.com)
 - Add new Project
-- Creat Authenthication -> Email/Password
+- Create Authenthication -> Email/Password
   <img src="https://raw.githubusercontent.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/main/Screenshot/Screenshot%202024-06-11%20104740.png"/>
 - Create Firestore Database -> set rules ->  allow read, write: if true;
 - Create Firestore Storage -> set rules ->  allow read, write: if true;
