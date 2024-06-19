@@ -112,9 +112,8 @@ flutter pub get
   flutter run
 ```
 ## Admin Panel Or User
-- Go to lib/main.dart
-- For Admin Panel -> home: AdminLogin()
-- For User -> home: AuthGate()
+- Admin -> login with username : admin, password : admin
+- User -> login with user account
 
 ## Screenshot
 
