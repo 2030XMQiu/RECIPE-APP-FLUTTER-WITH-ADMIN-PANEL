@@ -20,7 +20,7 @@
             </a>
         </th> -->
         <th style="text-align:center">
-            <a href="https://www.instagram.com/knantaufik">
+            <a href="https://www.instagram.com/nantaufikk">
                 <img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="40">
             </a>
         </th>
